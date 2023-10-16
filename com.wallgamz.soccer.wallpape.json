@@ -48,8 +48,8 @@
       "downloads": 5,
       "featured": "yes",
       "tags": "argentina,pixel 5,stock wallpaper",
-      "category_id": "2",
-      "category_name": "argentina",
+      "category_id": "1",
+      "category_name": "Barcelona",
       "last_update": "2021-09-25 10:47:39"
     }
   ],
@@ -58,19 +58,7 @@
       "category_id": "1",
       "category_name": "Barcelona",
       "category_image": "https://www.dropbox.com/s/ds3spadx77k33pg/f0154e18e3a72ef1c95436ff4c2b033c.jpg?dl=1",
-      "total_wallpaper": "21"
-    },
-    {
-      "category_id": "2",
-      "category_name": "Argentina",
-      "category_image": "https://www.dropbox.com/s/3ual760x2qcfe50/e20f3d995f3d4bc8d71364ac694861be.jpg?dl=1",
-      "total_wallpaper": "20"
-    },
-    {
-      "category_id": "3",
-      "category_name": "PSG",
-      "category_image": "https://www.dropbox.com/s/rmu8vitvdt9jni4/4ceff26a177e80b10554ab6fd3e48c32.jpg?dl=1",
-      "total_wallpaper": "20"
+      "total_wallpaper": "+99"
     }
   ],
   "menu": [
@@ -91,12 +79,5 @@
       "menu_title": "Popular",
       "menu_order": "popular",
       "menu_filter": "wallpaper"
-    },
-    {
-      "menu_id": "4",
-      "menu_title": "Live Wallpaper",
-      "menu_order": "live",
-      "menu_filter": "live"
     }
-  ]
 }
