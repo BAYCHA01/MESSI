@@ -195,6 +195,24 @@
       "category_id": "1",
       "category_name": "barcelona",
       "last_update": "2021-10-25 10:47:39"
+    },
+    {
+      "image_id": "1",
+      "image_name": "barca",
+      "image_thumb": "https://i.pinimg.com/564x/ed/a9/87/eda987b4c0e75088092458931691de29.jpg",
+      "image_upload": "https://i.pinimg.com/564x/ed/a9/87/eda987b4c0e75088092458931691de29.jpg",
+      "image_url": "https://i.pinimg.com/564x/ed/a9/87/eda987b4c0e75088092458931691de29.jpg",
+      "type": "upload",
+      "resolution": "152*546",
+      "size": "228.72 KB",
+      "mime": "image/jpeg",
+      "views": 120,
+      "downloads": 5,
+      "featured": "yes",
+      "tags": "argentina,pixel 5,stock wallpaper",
+      "category_id": "1",
+      "category_name": "barcelona",
+      "last_update": "2021-10-25 10:47:39"
     }
   ],
   "category": [
