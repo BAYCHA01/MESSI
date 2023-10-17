@@ -36,10 +36,10 @@
   "wallpaper": [
     {
       "image_id": "1",
-      "image_name": "Lionel Messi",
-      "image_thumb": "https://i.pinimg.com/564x/16/5c/49/165c49d4333ae9be01f3c06597cc8317.jpg",
-      "image_upload": "https://i.pinimg.com/564x/16/5c/49/165c49d4333ae9be01f3c06597cc8317.jpg",
-      "image_url": "https://i.pinimg.com/564x/16/5c/49/165c49d4333ae9be01f3c06597cc8317.jpg",
+      "image_name": "Barcelona",
+      "image_thumb": "https://i.pinimg.com/564x/d8/91/cf/d891cfe5c50f2f54dcb47a4409d43616.jpg",
+      "image_upload": "https://i.pinimg.com/564x/d8/91/cf/d891cfe5c50f2f54dcb47a4409d43616.jpg",
+      "image_url": "https://i.pinimg.com/564x/d8/91/cf/d891cfe5c50f2f54dcb47a4409d43616.jpg",
       "type": "upload",
       "resolution": "152*546",
       "size": "228.72 KB",
@@ -51,6 +51,24 @@
       "category_id": "1",
       "category_name": "Barcelona",
       "last_update": "2021-09-25 10:47:39"
+    },
+    {
+      "image_id": "1",
+      "image_name": "Barcelona",
+      "image_thumb": "https://i.pinimg.com/564x/18/c7/ab/18c7ab204695ac65fb442efa0199a26b.jpg",
+      "image_upload": "https://i.pinimg.com/564x/18/c7/ab/18c7ab204695ac65fb442efa0199a26b.jpg",
+      "image_url": "https://i.pinimg.com/564x/18/c7/ab/18c7ab204695ac65fb442efa0199a26b.jpg",
+      "type": "upload",
+      "resolution": "152*546",
+      "size": "228.72 KB",
+      "mime": "image/jpeg",
+      "views": 120,
+      "downloads": 5,
+      "featured": "yes",
+      "tags": "Barcelona,pixel 5,stock wallpaper",
+      "category_id": "1",
+      "category_name": "barcelona",
+      "last_update": "2021-10-25 10:47:39"
     }
   ],
   "category": [
